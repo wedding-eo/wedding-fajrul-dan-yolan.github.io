@@ -31,7 +31,7 @@ body {
 
 .hero {
   position: relative;
-  min-height: 110vh;
+  min-height: 100vh;
 }
 
 .hero h1,
@@ -352,6 +352,7 @@ body {
 
   .home{
     min-height: 100vh;
+    margin-left: -5px;
     background-image: url(img/bgg.png);
     background-size: cover;
   }
@@ -378,6 +379,7 @@ body {
     margin-top: -50px;
     min-height: auto;
     background-size: cover;
+    margin-left: -5px;
   }
 
   .info h3{
@@ -398,6 +400,7 @@ body {
     background-size: cover;
     min-height: 90vh;
     font-family: 'forum', sans-serif;
+    margin-left: -5px;
   }
 
   .isi .atas{
@@ -407,7 +410,7 @@ body {
   }
 
   .isi .atas img{
-    width: 105%;
+    width: 104.2%;
 
   }
   .isi .biss{
@@ -467,12 +470,13 @@ body {
     min-height: 70vh;
     color: white;
     margin-top: -60px;
+    margin-left: -5px;
   }
   .isi2 .dan{
     display: flex;
     justify-content: center;
-    margin-top: 40px;
-    margin-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 15px;
   }
   .isi2 .dan img{
     width: 60%;
@@ -521,8 +525,7 @@ body {
   }
 
   .akad img{
-    width: 110%;
-    margin-left: -20px;
+    width: 100%;
   }
 
   .tif{
