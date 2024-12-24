@@ -73,7 +73,7 @@ body {
 }
 
 .mynavbar{
-  top: 94vh;
+  top: 90vh;
 }
 
 .mynavbar .container{
@@ -357,6 +357,14 @@ body {
     background-size: cover;
   }
 
+  .home .balut{
+    padding-left: 20px;
+  }
+
+  .home .balut #bingkai{
+    padding-left: 20px;
+  }
+
   .home h1{
     font-size: 30px;
   }
@@ -467,7 +475,7 @@ body {
     background-image: url(img/bgg.png);
     background-size: cover;
     font-family: 'forum', sans-serif;
-    min-height: 70vh;
+    min-height: 65vh;
     color: white;
     margin-top: -60px;
     margin-left: -5px;
@@ -520,7 +528,7 @@ body {
     background-image: url(img/bga4.png);
     background-size: cover;
     font-family: 'forum', sans-serif;
-    min-height: 70vh;
+    min-height: 65vhh;
     color: white;
   }
 
@@ -625,6 +633,7 @@ body {
 
   .pesta .pernak img{
     width: 15%;
+    filter: brightness(50%);
   }
 
  .kata3{
@@ -644,12 +653,42 @@ body {
     width: 100%;
   }
 
+  .foto{
+    background-image: url(img/bgg.png);
+    background-size: cover;
+    font-family: 'forum', sans-serif;
+    min-height: 70vh;
+    color: white;
+  }
+
+  .tif{
+    margin-top: 30px;
+    color:#d79b34 ;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .tif h2{
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .kata1{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .kata1 h4{
+    text-align: justify;
+  }
 
   .thank{
     background-image: url(img/bga4.png);
     background-size: cover;
     font-family: 'forum', sans-serif;
-    min-height: 80vh;
+    min-height: 77vh;
     color: white;
     margin-top: -30px;
   }
