@@ -72,8 +72,12 @@ body {
   color: #d79b34;
 }
 
+.mynavbar{
+  top: 94vh;
+}
+
 .mynavbar .container{
-  width: 80%;
+  width: 75%;
   color: #d79b34;
   background-color: #d79b34;
   border: 1px solid transparent;
@@ -115,7 +119,7 @@ body {
   background-image: url(img/bg1.png);
   background-size: cover;
   min-height: 130vh;
-  margin-top: -6rem;
+  margin-top: -6.7rem;
   padding-top: 15rem;
   padding-bottom: 5rem;
 }
@@ -228,7 +232,7 @@ body {
   bottom: 2.5rem;
   right: 2rem;
   cursor: pointer;
-  color: white;
+  color: #d78b34;
   opacity: 0.5;
   mix-blend-mode: difference;
   animation: rotating 4s linear infinite;
@@ -237,6 +241,7 @@ body {
   justify-content: center;
   align-items: center;
   line-height: 0;
+  bottom: 50vh;
 }
 
 @keyframes rotating {
@@ -641,7 +646,7 @@ body {
     background-image: url(img/bga4.png);
     background-size: cover;
     font-family: 'forum', sans-serif;
-    min-height: 90vh;
+    min-height: 80vh;
     color: white;
     margin-top: -30px;
   }
