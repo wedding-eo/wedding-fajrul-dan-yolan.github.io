@@ -43,14 +43,14 @@ body {
 .hero h1 {
   font-family: "Allura", serif;
   font-size: 5rem;
-  margin-top: 150px;
+  margin-top: 100px;
 
 }
 
 .hero h4 {
   font-family: "forum", serif;
   font-size: 1.6rem;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .hero p {
