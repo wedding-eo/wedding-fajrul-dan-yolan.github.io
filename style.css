@@ -452,7 +452,6 @@ body {
     margin-top: 30px;
     width: 50%;
     border: 1px solid black;
-    border-radius: 40px;
   }
 
   .isi .nama h2{
@@ -500,7 +499,6 @@ body {
     margin-top: 20px;
     width: 55%;
     border: 1px solid black;
-    border-radius: 40px;
   }
 
   .isi2 .nama h2{
@@ -544,12 +542,12 @@ body {
   }
 
   .tif h2{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 500;
   }
 
   .kata1{
-    width: 80%;
+    width: 75%;
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
@@ -557,6 +555,7 @@ body {
 
   .kata1 h4{
     text-align: justify;
+    font-size: 15px;
   }
 
   .kata2{
